@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "pressrelease",
+    "description": "",
+    "home_page_url": "https://avamegan01.github.io/pressrelease",
+    "feed_url": "https://avamegan01.github.io/pressrelease/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "pressrelease"
+    },
+    "items": [
+        {
+            "id": "https://avamegan01.github.io/pressrelease/pressrelease.html",
+            "url": "https://avamegan01.github.io/pressrelease/pressrelease.html",
+            "title": "pressrelease",
+            "summary": "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",
+            "content_html": "<p>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</p>",
+            "author": {
+                "name": "pressrelease"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-20T00:31:27+06:00",
+            "date_modified": "2024-03-20T00:31:27+06:00"
+        }
+    ]
+}

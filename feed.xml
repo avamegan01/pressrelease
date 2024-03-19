@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>pressrelease</title>
+    <link href="https://avamegan01.github.io/pressrelease/feed.xml" rel="self" />
+    <link href="https://avamegan01.github.io/pressrelease" />
+    <updated>2024-03-20T00:31:27+06:00</updated>
+    <author>
+        <name>pressrelease</name>
+    </author>
+    <id>https://avamegan01.github.io/pressrelease</id>
+
+    <entry>
+        <title>pressrelease</title>
+        <author>
+            <name>pressrelease</name>
+        </author>
+        <link href="https://avamegan01.github.io/pressrelease/pressrelease.html"/>
+        <id>https://avamegan01.github.io/pressrelease/pressrelease.html</id>
+
+        <updated>2024-03-20T00:31:27+06:00</updated>
+            <summary>
+                <![CDATA[
+                    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
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>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</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

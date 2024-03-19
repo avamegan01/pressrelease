@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://avamegan01.github.io/pressrelease/sitemap.xml
